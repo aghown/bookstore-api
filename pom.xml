@@ -8,10 +8,10 @@
 		<version>2.7.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.hanna</groupId>
-	<artifactId>bookstore</artifactId>
+	<groupId>com.aghown</groupId>
+	<artifactId>BookStore</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>bookstore</name>
+	<name>BookStore</name>
 	<description>Project Spring Boot and Angular 10</description>
 	<properties>
 		<java.version>17</java.version>
